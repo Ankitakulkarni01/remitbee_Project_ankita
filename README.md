@@ -18,7 +18,6 @@
   react-native-fbsdk-next
   react-native-gesture-handler
   react-native-keyboard-aware-scrollview
-  react-native-paper
   react-native-safe-area-context
   react-native-vector-icons
  
